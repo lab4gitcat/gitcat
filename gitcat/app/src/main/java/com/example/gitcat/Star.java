@@ -9,4 +9,5 @@ public class Star extends Shape {
         this.points = points;
     }
 
+
 }
